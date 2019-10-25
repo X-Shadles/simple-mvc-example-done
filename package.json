@@ -31,5 +31,13 @@
     "express-handlebars": "^3.1.0",
     "mongoose": "^5.7.5",
     "serve-favicon": "^2.5.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/X-Shadles/simple-mvc-example-done.git"
+  },
+  "bugs": {
+    "url": "https://github.com/X-Shadles/simple-mvc-example-done/issues"
+  },
+  "homepage": "https://github.com/X-Shadles/simple-mvc-example-done#readme"
 }
